@@ -110,3 +110,10 @@ footer{
         filter: invert(1);
     }
   }
+
+  .contact a {
+    color: white;
+    padding-top: 5px;
+    margin-left: 5px;
+
+}
